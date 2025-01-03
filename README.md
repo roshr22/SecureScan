@@ -1,4 +1,4 @@
-# Website Security Auditing Tool
+# SecureScan
 
 ## Overview
 This tool is designed to audit the security of websites by checking for common vulnerabilities and security misconfigurations. It performs essential checks, including URL validation, HTTP status checks, and port scanning for potential open ports. It also verifies SSL/TLS certificate validity to ensure a secure connection.
